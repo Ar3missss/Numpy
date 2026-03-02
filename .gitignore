@@ -1,0 +1,25 @@
+# Environment folders
+venv/
+env/
+.venv/
+
+# Conda
+conda-meta/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment files (optional)
+.env
